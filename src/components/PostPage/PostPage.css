@@ -30,10 +30,17 @@
   }
   
   .profile-name {
-    margin: 0;
+ 
     font-size: 20px;
-    display: flex;
-    flex-direction: row
+    /* width: 40px;
+    height: 40px; */
+    margin-bottom: 85%;
+    
+    position: relative;
+    left: 150px;
+    justify-content: center;
+  
+  
   }
   
   .post-time {
