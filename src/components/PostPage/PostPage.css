@@ -38,11 +38,11 @@
 
   }
   
-  .post-time {
+  /* .post-time {
     color: #888;
     font-size: 14px;
     margin: 0;
-  }
+  } */
   .post-content {
     display: flex;
     align-items: center;
